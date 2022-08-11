@@ -268,5 +268,6 @@ if "last_row" in st.session_state:
     st.markdown("""---""")
     # with st.expander("Check Feasibility Result"):
         # st.write("updating soon")
-    st.metric(label="Feasiblity Matrix", value=ca)
+    # st.metric(label="Feasiblity Matrix", value=ca)
+    st.text(ca)
     # pdfkit.from_url('http://localhost:8501/Dashboard_Result', 'out1.pdf')
