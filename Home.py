@@ -10,12 +10,13 @@ def run():
         # page_icon="👋",
     )
     from PIL import Image
-    image = Image.open('img/sunrise.png')
+    image = Image.open('img/logo.png')
 
     st.sidebar.image(image, )
     # with open('style.css') as f:
     #     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
-    st.write("# Welcome to RPA ROI/Feasibility Analysis!")
+    # st.write("# Welcome to RPA ROI/Feasibility Analysis!")
+    st.write("# NTT DATA - ChatGPT Demo")
     
     # st.sidebar.image("")
 

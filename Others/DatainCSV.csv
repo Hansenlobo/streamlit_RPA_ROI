@@ -1,0 +1,96 @@
+"Hi
+","Hi there! I'm Kira, your virtual assistant. How can I help you today? END"
+"Hello
+","Hi there! I'm Kira, your virtual assistant. How can I help you today? END"
+"Hey
+","Hi there! I'm Kira, your virtual assistant. How can I help you today? END"
+"Hi! Who are you?
+","Hi there! I'm Kira, your virtual assistant. How can I help you today? END"
+"Who are you?
+","I'm Kira, your virtual assistant. How can I help you today? END"
+"Hi, I'm facing certain technical issues
+",Could you please tell me more about the issue you are facing?. END
+"I'm facing certain technical issues
+",Could you please tell me more about the issue you are facing?. END
+"I need your help with this issue I'm facing
+",Could you please tell me more about the issue you are facing?. END
+"I can't seem to reset my password
+",I've sent a password reset link to the email associated with the account johndoe. Please check your inbox. END
+"How can I create a new support ticket?
+","Are you logged in to your account? If so, try refreshing the page. If not, please log in and try again. END"
+"I'm having trouble accessing my email account
+",I see that your account is currently locked. I will unlock it now and send you an email with instructions on how to reset your password. END
+"My internet is really slow
+","I see that there is a network issue in the New York office. Our team is working on resolving it. In the meantime, try restarting your router and device. END"
+"My printer isn't working
+",It looks like the printer is out of paper. Please make sure that there is paper in the tray and try again. END
+"I am unable to install software XYZ
+",It appears that the software is not compatible with your operating system. Please check the system requirements before installing. END
+"I can't seem to reset my password
+",I've sent a password reset link to the email associated with the account johndoe. Please check your inbox and follow the instructions. END
+"My computer is not working properly
+","I see, I will assign this ticket to our hardware team and they will contact you shortly to resolve the issue. END"
+"I'm having trouble accessing my email account
+",It appears that you might need to reset your password. I've sent a password reset link to the email associated with your account. Please check your inbox. END
+"My corporate card was declined when I tried to make a purchase
+","I see, I will investigate this issue and contact you shortly with more information. In the meantime, please use an alternative form of payment. END"
+"I've been on hold for over 20 minutes, can you help me?
+","I understand, I will transfer you to the billing department and they will assist you with your issue. Thank you for your patience. END"
+"Our systems are down and we can't access any files
+","I understand, I will escalate this issue to our IT team and they will work on resolving it as soon as possible. I will keep you updated on the progress. END"
+"My computer's operating system is not working properly
+","I understand, I will escalate this issue to our IT team and they will work on resolving it as soon as possible. I will keep you updated on the progress. END"
+"I need to install software XYZ on my computer
+","I see, I will create a ticket for our IT team to install the software on your computer. They will contact you shortly to schedule the installation. END"
+"I need to un-install software ABC from my computer
+","I understand, I will create a ticket for our IT team to un-install the software from your computer. They will contact you shortly to schedule the un-installation. END"
+"I'm unable to login to my account
+","I see, I will reset your password and send you an email with instructions to set a new one. If you continue to experience issues, please contact us again. END"
+"I'm unable to access a specific file on the network
+","I understand, I will check the permissions on that file and folder and make sure you have the necessary access. I will update you on the findings. END"
+"I am unable to find some of my backup files
+","I understand, I will investigate the issue and restore the missing files if possible. I will update you on the progress. END"
+"I am unable to submit my time entry for this week
+","I see, I will investigate the issue and fix any problems with the system. In the meantime, please try again later or contact your supervisor for assistance. END"
+"My computer keeps rebooting unexpectedly
+","I understand, I will escalate this issue to our IT team and they will investigate the problem. I will keep you updated on the progress. END"
+"I need access to server XYZ for my project
+","I see, I will forward this request to the server administrator and they will grant you the access. I will update you on the progress. END"
+"I am having connectivity issues with the corporate network
+","I understand, I will investigate the issue and troubleshoot the problem. I will update you on the progress. END"
+"I am unable to connect to the VPN
+","I see, I will investigate the issue and troubleshoot the problem. I will update you on the progress. END"
+"I need to take some time off for a family emergency, what do I need to do?
+","Thank you for letting us know. Please submit a request through our online system and make sure to mark it as a family emergency leave. Once your supervisor approves the request, we will make sure to cover your shift and assist you with any necessary arrangements. END"
+"I need a new system for my team to be able to work efficiently
+","I understand, I will forward your request to the IT department and they will review it. I will update you on the progress. END"
+"I am unable to request time off in the system
+","I see, I will investigate the issue and fix any problems with the system. In the meantime, please try again later or contact your supervisor for assistance. END"
+"I am unable to enter the WBS code for my time entry
+","I understand, I will investigate the issue and fix any problems with the system. I will update you on the progress. END"
+"I would like to raise a ticket for my travel reimbursement
+","I see, I will forward this request to the finance department and they will review it. I will update you on the progress. END"
+"I would like to raise a ticket for my shift reimbursement
+","I see, I will forward this request to the finance department and they will review it. I will update you on the progress. END"
+"I am new to the organization and I need assistance with my onboarding formalities
+","I see, I will forward this request to the HR department and they will assist you with the onboarding formalities. Is there anything else I can assist you with?. Thank you END"
+"I need to update my employee profile
+","I see, I will forward this request to the HR department and they will assist you with updating your profile. Is there anything else I can assist you with? END"
+"I have a request for my shift schedule
+","I see, I will forward this request to the HR department and they will assist you with updating your profile. Is there anything else I can assist you with? END"
+"I would like to request for time off from work
+","I see, I will forward this request to the HR department and they will assist you with your time off request. Is there anything else I can assist you with? END"
+"I would like to request for a salary increment
+","I see, I will forward this request to the HR department and they will assist you with your salary increment request. Is there anything else I can assist you with? END"
+"Hi, I am John Smith, a new employee. Can you please provide me with an onboarding form?
+","Sure, I can send you the onboarding form via email. Can you please provide your email address? END"
+"Hi, I am Jane Doe, and I need to update my address and phone number in my employee profile. Can you help me with this?
+","Of course, I can assist you with updating your profile. Can you please provide me with your updated information so I can make the changes for you? END"
+"Hi, I am Michael Johnson and I would like to submit a reimbursement request for my recent business trip. Can you guide me through the process?
+","Sure, I can assist you with your reimbursement request. Can you please provide me with your travel itinerary and any receipts or invoices related to the trip? END"
+"Hi, I am Emma Williams and I would like to request time off for a vacation next month. Can you please assist me with this?
+","Sure, I can assist you with your time off request. Can you please provide me with the dates you are requesting off and any necessary documentation? END"
+"I need a new virtual machine for a project I am working on. Can you help me with that?
+","Alright, I have created a ticket for your request. Can you please provide me with the project details and the purpose of the virtual machine? END"
+"I am unable to connect to my virtual machine, can you help me with that?
+","I see the issue, It looks like the virtual machine is not responding. I will check the server and get back to you as soon as possible. END"
