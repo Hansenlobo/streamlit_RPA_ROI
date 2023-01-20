@@ -4,7 +4,7 @@ import streamlit as st
 from streamlit_chat import message
 
 # API KEY
-openai.api_key = "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"
+openai.api_key = "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"
 
 
 # GET RESPONSE
@@ -31,7 +31,7 @@ def openai_create(prompt):
 
 image = Image.open('img/logo.png')
 st.sidebar.image(image, )
-st.markdown("# Travel Planner with ChatGPT :earth_asia:")
+st.markdown("# Travel Planner with GPT3 :earth_asia:")
 
 
 resultOutput=""

@@ -1,14 +1,14 @@
 import openai
 import streamlit as st
 from streamlit_chat import message
-
 # API KEY
 # openai.api_key = "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"
-openai.api_key = "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"
-
+# openai.api_key = "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"
+openai.api_key = "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"
 
 # GET RESPONSE
 def openai_create(prompt):
+    
     response = openai.Completion.create(
     # model="text-davinci-003",
     # model="davinci:ft-personal-2023-01-12-09-33-04",
@@ -48,8 +48,8 @@ st.set_page_config(
     page_icon="::"
 )
 from PIL import Image
-image = Image.open('img/logo.png')
-st.sidebar.image(image, )
+# image = Image.open('img/logo.png')
+# st.sidebar.image(image, )
 st.header("ChatGPT NTT Data Demo")
 
 history_input = []

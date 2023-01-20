@@ -6,7 +6,7 @@ LOGGER = get_logger(__name__)
 
 def run():
     st.set_page_config(
-        page_title="RPA ROI/Feasibility Analysis",
+        page_title="NTT DATA - GPT3",
         # page_icon="👋",
     )
     from PIL import Image
